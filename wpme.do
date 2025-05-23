@@ -4,7 +4,7 @@ cls
 
 *Import data
 
-import excel "F:\Laptop\D\University Term 8\Econometircs\Project\Book1.xlsx", sheet("Sheet1") firstrow
+import excel "...\Econometircs\Project\Data.xlsx", sheet("Sheet1") firstrow
 
 *Rename variable
 
